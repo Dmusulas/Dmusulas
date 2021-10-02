@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dmusulas
 - 👀 I’m interested in data science.
-- 🌱 I’m currently learning R.
-- 💞️ I’m looking to collaborate on various data analysis problems.
+- 🌱 I’m currently learning R, Python and SQL.
+- 💞️ I’m looking to collaborate on various data science problems.
 - 📫 How to reach me ...
 
 <!---
