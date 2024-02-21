@@ -5,5 +5,4 @@
 
 You can reach me via:
 - Email: dovydas.musulas@proton.me
-- Telegram: dmusulas
-
+- Telegram: [neutron_d](https://t.me/neutron_d)
